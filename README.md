@@ -1,4 +1,6 @@
-![gif from nerdy.dev](https://github.com/rubenquadros/rubenquadros/blob/master/hi.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/rubenquadros/rubenquadros/blob/master/hi.gif?raw=true">
+</p>
 
 ### Hi there 👋
 
