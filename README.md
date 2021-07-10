@@ -7,7 +7,8 @@
 
 - 🔭 I am currently working as an Android application developer
 - 🌱 I’m currently learning someting new
-- 📫 My LinkedIn profile is [<img align="center" alt="Ruben Quadros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📫 Connect with me on [LinkedIn][linkedin]
+- ✍ Checkout my articles on [Medium][medium]
 <br />
 
 ### Languages and Tools:
@@ -28,6 +29,7 @@
 <br />
 
 [linkedin]: https://in.linkedin.com/in/ruben-quadros-b87995173
+[medium]: https://ruben-quadros.medium.com/
 [kotlinproject]: https://github.com/rubenquadros/Automated-bartender-mobile-app
 [javaproject]: https://github.com/rubenquadros/Dank-Memes
 [swiftproject]: https://github.com/rubenquadros/Meme-Generator
