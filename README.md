@@ -11,6 +11,9 @@
 - ✍ Checkout my articles on [Medium][medium]
 <br />
 
+[<img align="left" alt="Android Weekly #481" src="https://androidweekly.net/issues/issue-481/badge" />][androidweekly]
+<br/>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][artisto]
@@ -38,3 +41,4 @@
 [nodeproject]: https://github.com/rubenquadros/Automated-Bartender-NodeJS
 [artisto]: https://github.com/rubenquadros/Artisto
 [github]: https://github.com/rubenquadros/
+[androidweekly]: https://androidweekly.net/issues/issue-481
