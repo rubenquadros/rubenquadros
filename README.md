@@ -11,9 +11,6 @@
 - ✍ Checkout my articles on [Medium][medium]
 <br />
 
-[<img align="left" alt="Android Weekly #481" src="https://androidweekly.net/issues/issue-481/badge" />][androidweekly]
-<br/>
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][artisto]
@@ -30,6 +27,15 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <br />
 <br />
+---
+
+### Featured in:
+
+[<img align="left" alt="Android Weekly #481" src="https://androidweekly.net/issues/issue-481/badge" />][androidweekly481]- For [pagination][aw481medium] in Jetpack Compose
+<br/>
+[Coffee Bytes][coffeebytes19] from Better Programming - For IntelliJ [plugin][cb19] development
+
+
 
 [linkedin]: https://in.linkedin.com/in/ruben-quadros-b87995173
 [medium]: https://ruben-quadros.medium.com/
@@ -41,4 +47,7 @@
 [nodeproject]: https://github.com/rubenquadros/Automated-Bartender-NodeJS
 [artisto]: https://github.com/rubenquadros/Artisto
 [github]: https://github.com/rubenquadros/
-[androidweekly]: https://androidweekly.net/issues/issue-481
+[androidweekly481]: https://androidweekly.net/issues/issue-481
+[aw481medium]: https://proandroiddev.com/learn-with-code-jetpack-compose-lists-and-pagination-part-1-545447c55cb2
+[coffeebytes19]: https://betterprogramming.pub/plugin-play-ddceafb868eb
+[cb19]: https://betterprogramming.pub/build-a-custom-intellij-code-inspection-plugin-c6973a6d3f3
