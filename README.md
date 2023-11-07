@@ -35,7 +35,9 @@
 <br/>
 [Coffee Bytes][coffeebytes19] from Better Programming - For IntelliJ [plugin][cb19] development
 
+<br/>
 
+[![An image of @rubenquadros's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rubenquadros)](https://holopin.io/@rubenquadros)
 
 [linkedin]: https://in.linkedin.com/in/ruben-quadros-b87995173
 [medium]: https://ruben-quadros.medium.com/
