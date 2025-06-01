@@ -19,8 +19,10 @@
 
   ### Featured in:
   ---
+
+  - [![Android Weekly](https://androidweekly.net/issues/issue-677/badge)]([https://androidweekly.net/](https://androidweekly.net/issues/issue-677)) | [Kotlin weekly 461](https://mailchi.mp/kotlinweekly/kotlin-weekly-461) - For [saving state in SavedStateHandle][aw677medium] in Compose Multiplatform <br/>
   
-  - <a href="https://androidweekly.net/issues/issue-481"><img align="left" alt="Android Weekly #481" src="https://androidweekly.net/issues/issue-481/badge" /></a> - For [pagination][aw481medium] in Jetpack Compose <br/>
+  - [![Android Weekly](https://androidweekly.net/issues/issue-481/badge)]([https://androidweekly.net/](https://androidweekly.net/issues/issue-481)) - For [pagination][aw481medium] in Jetpack Compose <br/>
   
   - [Coffee Bytes][coffeebytes19] from Better Programming - For IntelliJ [plugin][cb19] development
 
@@ -53,6 +55,7 @@
 
   [medium]: https://medium.com/@ruben-quadros
   [aw481medium]: https://proandroiddev.com/learn-with-code-jetpack-compose-lists-and-pagination-part-1-545447c55cb2
+  [aw677medium]: https://medium.com/p/8e1c57500986
   [coffeebytes19]: https://betterprogramming.pub/plugin-play-ddceafb868eb
   [cb19]: https://betterprogramming.pub/build-a-custom-intellij-code-inspection-plugin-c6973a6d3f3
   [codespector]: https://github.com/rubenquadros/codespector
