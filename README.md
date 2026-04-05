@@ -18,7 +18,8 @@
   - You can reach out to me via [mail][mail], [LinkedIn][linkedin] or [Slack][slack] 📫 <br/>
 
   ### Featured in:
-  ---
+  --- 
+  - [Kotlin weekly 505](https://mailchi.mp/kotlinweekly/kotlin-weekly-505) - For [building AI agents with Koog][kw505medium] <br/>
 
   - [![Android Weekly](https://androidweekly.net/issues/issue-677/badge)]([https://androidweekly.net/](https://androidweekly.net/issues/issue-677)) | [Kotlin weekly 461](https://mailchi.mp/kotlinweekly/kotlin-weekly-461) - For [saving state in SavedStateHandle][aw677medium] in Compose Multiplatform <br/>
   
@@ -54,6 +55,7 @@
   [![An image of @rubenquadros's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rubenquadros)](https://holopin.io/@rubenquadros)
 
   [medium]: https://medium.com/@ruben-quadros
+  [kw505medium]: https://blog.kotlin-academy.com/building-reliable-ai-agents-with-koog-86cd3f40c084
   [aw481medium]: https://proandroiddev.com/learn-with-code-jetpack-compose-lists-and-pagination-part-1-545447c55cb2
   [aw677medium]: https://medium.com/p/8e1c57500986
   [coffeebytes19]: https://betterprogramming.pub/plugin-play-ddceafb868eb
